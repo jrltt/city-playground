@@ -1,1 +1,3 @@
-# city-playground
+# City playground
+
+React project build with Typescript.
